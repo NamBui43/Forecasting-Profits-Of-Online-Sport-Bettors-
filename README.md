@@ -3,7 +3,7 @@ Final Project for CS-C3240 Machine Learning D at Aalto University
 
 ## Introduction
 
-- The objective of this project is to formulate and compare the efficiency of 2 machine learning models that closely predict the profit of an internet sport gambler based on his/her gambling trends. The project has a very specific business application which is to help online casinos effectively classifying customers based on their predicted profits, thereby developing specialized customer strategies such as targeted offers and loyalty program. 
+- The objective of this project is to formulate and compare the efficiency of 2 machine learning models that closely predict the profit of an internet sport gambler based on his/her gambling volume and tendency. The project has a very specific business application which is to help online casinos effectively classifying customers based on their predicted profits, thereby developing specialized customer strategies such as targeted offers and loyalty program. 
 
 ## Data Description and Problem Analysis
 - The dataset used in this project comes from the collaborative Internet gambling research project between the Division of Addictions (DOA) and bwin Interactive Entertainment (bwin), and was obtained from transparencyproject.org (title: Population Trends in Internet Sports Gambling)
