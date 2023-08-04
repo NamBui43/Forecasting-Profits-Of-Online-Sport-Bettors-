@@ -7,7 +7,7 @@ The project has a very specific business application which is to help online cas
 
 ## Data Description and Problem Analysis
 The dataset used in this project comes from the collaborative Internet gambling research project between the Division of Addictions (DOA) and Bwin Interactive Entertainment, and was obtained from transparencyproject.org (title: Population Trends in Internet Sports Gambling).
-The dataset initially contains 46,339 datapoints, which represent the demographic and sport betting records of 46,339 users on bwin’s website throughout 18 months of the research (01.02.2005 - 31.08.2006). All monetary properties are in Euros €. Originally, there are 21 features available for each datapoint, representing specific demographic and sport betting information of users. 
+The dataset initially contains 46,339 datapoints, which represent the demographic and sport betting records of 46,339 users on bwin’s website throughout 18 months of the research (01.02.2005 - 31.08.2006). Originally, there are 21 features available for each datapoint, representing specific demographic and sport betting information of users. 
 The 3 feature variables selected for the model are factors that highly reflect the gambling trend of a sport gambler including the total number of bets, the total number of days doing sport betting on bwin’s website and the average amount of money spent on each bet.
   
 ## Modelling
