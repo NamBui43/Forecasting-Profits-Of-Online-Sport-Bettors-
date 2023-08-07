@@ -1,4 +1,4 @@
-# Predicting-profits-of-internet-sport-bettors-
+# Forecasting-profits-of-internet-sport-bettors-
 Final Project for CS-C3240 Machine Learning D at Aalto University.
 
 ## Introduction
