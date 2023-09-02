@@ -3,6 +3,7 @@ Final Project for CS-C3240 Machine Learning D at Aalto University.
 
 ## Introduction
 I am a huge sport fan and sport betting, especially when it comes to football. Therefore, for the final project of CS-C3240 Machine Learning D at Aalto University, I want to dive deeper into this area of interest and explore it from a different perspective; this time not a bettor, but an analyst/engineer. 
+
 The objective of this project is to formulate and compare the efficiency of 2 machine learning models that closely predict the profit of an internet sport gambler based on his/her gambling volume and tendency. 
 The project has a very specific business application which is to help online casinos effectively classifying customers based on their predicted profits, thereby developing specialized customer strategies such as targeted offers and loyalty program. 
 
