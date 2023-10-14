@@ -4,7 +4,7 @@ Final Project for CS-C3240 Machine Learning D at Aalto University.
 ## Introduction
 I am a huge sport fan and sport betting, especially when it comes to football. Therefore, for the final project of CS-C3240 Machine Learning D at Aalto University, I want to dive deeper into this area of interest and explore it from a different perspective; this time not as a bettor, but as an data analyst. 
 
-The objective of this project is to formulate and compare the efficiency of 2 machine learning models that closely predict the profit of an internet sport gambler based on his/her gambling volume and tendency. 
+The objective of this project is to formulate and compare the efficiency of machine learning models that closely predict the profit of an internet sport gambler based on his/her gambling volume and tendency. 
 The project has a very specific business application which is to help online casinos effectively classifying customers based on their predicted profits, thereby developing specialized customer strategies such as targeted offers and loyalty program. 
 
 ## Data Description and Problem Analysis
@@ -12,15 +12,8 @@ The dataset used in this project comes from the collaborative Internet gambling 
 The dataset initially contains 46,339 datapoints, which represent the demographic and sport betting records of 46,339 users on bwin’s website throughout 18 months of the research (01.02.2005 - 31.08.2006). Originally, there are 21 features available for each datapoint, representing specific demographic and sport betting information of users. 
   
 ## Modelling
-Polynomial Regression and Decision Tree Regression were used.
+Random Forest Regression and Polynomial Regression were used.
 The performances of the 2 models were compared to determine the superior option.
-
-## Result
-Through assesments of 2 models' performances, Decision Tree Regressior model has been demonstrated to be the slightly superior option.
-
-## Conclusion
-The project formulates and compares 2 machine learning models that closely predict the profit of an internet sport gambler based on his/her gambling volume and tendency.
-The superior model, Decision Tree Regressior, achieved a high level of accuracy and can be further improved with more quality data and advanced techniques.
 
 ## Requirments
 The code for this project was written in Python 3.8 and requires the following libraries:
