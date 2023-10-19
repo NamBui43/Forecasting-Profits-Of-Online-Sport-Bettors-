@@ -1,11 +1,11 @@
-# Forecasting-profits-of-internet-sport-bettors-
+# Forecasting Profits of Online Sports Bettors
 Final Project for CS-C3240 Machine Learning D at Aalto University.
 
 ## Introduction
-I am a huge fan of sport and sport betting, especially when it comes to football. Therefore, for the final project of CS-C3240 Machine Learning D at Aalto University, I want to dive deeper into this area of interest and explore it from a different perspective; this time not as a bettor, but as an data analyst. 
+I am a huge fan of sports and sports betting, especially when it comes to football. Therefore, for the final project of CS-C3240 Machine Learning D at Aalto University, I want to dive deeper into this area of interest and explore it from a different perspective; this time not as a bettor, but as an data analyst. 
 
-The objective of this project is to formulate and compare the efficiency of machine learning models that closely predict the profit of an internet sport gambler based on his/her gambling volume and tendency. 
-The project has a very specific business application which is to help online casinos effectively classifying customers based on their predicted profits, thereby developing specialized customer strategies such as targeted offers and loyalty program. 
+The objective of this project is to formulate and compare the efficiency of machine learning models that closely predict the profits of online sport bettors based on their gambling volume and tendency. 
+The project has a very specific business application which is to help bwin Interactive Entertainment (bwin), an online betting agency, effectively classify their customers based on their predicted profits, thereby developing specialized customer strategies and targed measures.  
 
 ## Data Description and Problem Analysis
 The dataset used in this project comes from the collaborative Internet gambling research project between the Division of Addictions (DOA) and Bwin Interactive Entertainment (bwin), and was obtained from thetransparencyproject.org (title: Population Trends in Internet Sports Gambling).
